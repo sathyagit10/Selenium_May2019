@@ -1,0 +1,44 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 10, Errors: 0, Skipped: 0, Time elapsed: 37.392 s <<< FAILURE! - in TestSuite
+testCase(com.alg.test.executionengine.Executor)  Time elapsed: 7.403 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.alg.test.executionengine.Executor.testCase(Executor.java:174)
+
+testCase(com.alg.test.executionengine.Executor)  Time elapsed: 0.492 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.alg.test.executionengine.Executor.testCase(Executor.java:174)
+
+testCase(com.alg.test.executionengine.Executor)  Time elapsed: 6.035 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.alg.test.executionengine.Executor.testCase(Executor.java:174)
+
+testCase(com.alg.test.executionengine.Executor)  Time elapsed: 0.634 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.alg.test.executionengine.Executor.testCase(Executor.java:174)
+
+testCase(com.alg.test.executionengine.Executor)  Time elapsed: 0.467 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.alg.test.executionengine.Executor.testCase(Executor.java:174)
+
+testCase(com.alg.test.executionengine.Executor)  Time elapsed: 8.089 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.alg.test.executionengine.Executor.testCase(Executor.java:174)
+
+testCase(com.alg.test.executionengine.Executor)  Time elapsed: 0.774 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.alg.test.executionengine.Executor.testCase(Executor.java:174)
+
+testCase(com.alg.test.executionengine.Executor)  Time elapsed: 1.662 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.alg.test.executionengine.Executor.testCase(Executor.java:174)
+
+testCase(com.alg.test.executionengine.Executor)  Time elapsed: 9.393 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.alg.test.executionengine.Executor.testCase(Executor.java:174)
+
+testCase(com.alg.test.executionengine.Executor)  Time elapsed: 9.549 s  <<< FAILURE!
+java.lang.AssertionError
+	at com.alg.test.executionengine.Executor.testCase(Executor.java:174)
+
